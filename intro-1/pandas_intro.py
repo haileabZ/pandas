@@ -3,6 +3,7 @@
 # (2) List of days when it rained
 # (3) Average speed of wind in month of january
 
+
 __parsed_rows = []
 
 def parse_csv():
