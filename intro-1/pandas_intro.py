@@ -21,6 +21,7 @@ def parse_csv():
         'Events' : 9,
         'WindDirDegrees': 10
     }
+    
 
     global __parsed_rows
     with open(__file_path, "r") as f:
